@@ -134,5 +134,11 @@ pip install nltk scikit-learn pandas matplotlib seaborn
 This project demonstrates how NLP preprocessing and vectorization techniques can significantly improve text classification performance. Among the models tested, SVM and Logistic Regression provided the highest accuracy.
 
 ---
+📜 Undertaking
+We hereby declare that this project is our original work and has been completed as part of the academic requirement. All resources and references have been appropriately acknowledged.
+
+🔗 GitHub Repository
+👉 https://github.com/Heena-janbandhu/NLP-Preprocessing-and-Text-Classification.git
+
 
 
