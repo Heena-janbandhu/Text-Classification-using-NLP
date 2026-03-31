@@ -25,7 +25,7 @@ The objective of this project is to implement Natural Language Processing (NLP) 
 ---
 
 ## 📂 Dataset
-
+link - https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset 
 * AG News Dataset (CSV format)
 * Contains news articles categorized into:
 
